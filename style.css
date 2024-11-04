@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: #f0f4f8;
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  .time {
+    font-size: 48px;
+    font-weight: bold;
+  }
+  
+  .greeting {
+    margin-top: 10px;
+    font-size: 24px;
+  }
+  
+  #nameInput {
+    margin-top: 20px;
+    padding: 8px;
+    font-size: 16px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+  }
+  
